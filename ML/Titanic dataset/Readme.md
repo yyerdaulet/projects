@@ -7,10 +7,14 @@ This project uses a dataset originally provided under the [Apache License 2.0](h
 The dataset has been **modified** to prepare it for machine learning model training.  
 The following changes were applied:
 
+## 🛠️ Modifications
+
+To prepare the dataset for machine learning model training, the following changes were applied:
+
 - Removed irrelevant columns.
 - Filtered out incomplete or inconsistent rows.
-- Renamed some columns for clarity.
 - Performed basic preprocessing (e.g., type conversion, handling of missing values).
+- **Added new derived columns to enrich the dataset (e.g., binary flags, grouped categories, or encoded features).**
 
 All modifications comply with the terms of the Apache License 2.0.  
 The original source of the dataset is acknowledged, and this version should not be considered identical to the original.
