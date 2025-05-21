@@ -21,29 +21,11 @@ This project explores the relationship between social media addiction and real-l
 ## 🔧 Technologies Used
 
 - Python
-- pandas, numpy
-- matplotlib, seaborn
+- pandas
+- matplotlib
 - scikit-learn
-- Jupyter Notebook / Colab
-
-## 🧼 Preprocessing
-
-- Removed null and inconsistent entries
-- Converted categorical responses to numerical formats
-- Normalized key features for modeling
-
-## 🧠 Models
-
-We experimented with:
-- Logistic Regression
-- Random Forest
-- SVM
-- XGBoost
-
-## 📈 Results
-
-- Random Forest achieved the highest accuracy on predicting social media addiction levels.
-- Strong negative correlation observed between addiction and relationship satisfaction.
+- Jupyter Notebook
+- tensorflow
 
 ## 📄 License & Attribution
 
